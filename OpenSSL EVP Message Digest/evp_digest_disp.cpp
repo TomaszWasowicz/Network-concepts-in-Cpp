@@ -132,19 +132,4 @@ int main(int argc, char* argv[])
     std::cout << "length of " << argv[1] << " is: " << md_len << " Bytes\n";
     exit(0);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
