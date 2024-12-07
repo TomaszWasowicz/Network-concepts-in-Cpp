@@ -11,8 +11,8 @@ HTTP HTTPS, FTP, SFTP, IMAP, POP3, SCP, SFTP, SMTP, TFTP,
 TELNET, LDAP, or FILE. It works on many platforms like UNIX, 
 AIX, Linux OpenBSD. 
 
-In order to test the example, there's  been created a echo web service server, 
-which able to receive HTTP GET and HTTP POST request with parameters
+In order to test the example, a echo web service server should be created, 
+and it should be able to receive HTTP GET and HTTP POST requests with parameters
 
 The example can also be executed through command line.
 
