@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\najwazniejsze\\Dokumenty Tomka\\Programowanie\\Github\\Network concepts in Cpp\\Simple UDP server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E301FF2F-A369-4AE6-8617-5814C50918B6}|Simple UDP server.vcxproj|D:\\najwazniejsze\\Dokumenty Tomka\\Programowanie\\Github\\Network concepts in Cpp\\Simple UDP server\\udp_client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E301FF2F-A369-4AE6-8617-5814C50918B6}|Simple UDP server.vcxproj|solutionrelative:udp_client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E301FF2F-A369-4AE6-8617-5814C50918B6}|Simple UDP server.vcxproj|D:\\najwazniejsze\\Dokumenty Tomka\\Programowanie\\Github\\Network concepts in Cpp\\Simple UDP server\\udp_server.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E301FF2F-A369-4AE6-8617-5814C50918B6}|Simple UDP server.vcxproj|solutionrelative:udp_server.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E301FF2F-A369-4AE6-8617-5814C50918B6}|Simple UDP server.vcxproj|D:\\najwazniejsze\\Dokumenty Tomka\\Programowanie\\Github\\Network concepts in Cpp\\Simple UDP server\\udp_server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E301FF2F-A369-4AE6-8617-5814C50918B6}|Simple UDP server.vcxproj|solutionrelative:udp_server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "udp_client.cpp",
+              "DocumentMoniker": "D:\\najwazniejsze\\Dokumenty Tomka\\Programowanie\\Github\\Network concepts in Cpp\\Simple UDP server\\udp_client.cpp",
+              "RelativeDocumentMoniker": "udp_client.cpp",
+              "ToolTip": "D:\\najwazniejsze\\Dokumenty Tomka\\Programowanie\\Github\\Network concepts in Cpp\\Simple UDP server\\udp_client.cpp",
+              "RelativeToolTip": "udp_client.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T13:46:15.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "udp_server.hpp",
+              "DocumentMoniker": "D:\\najwazniejsze\\Dokumenty Tomka\\Programowanie\\Github\\Network concepts in Cpp\\Simple UDP server\\udp_server.hpp",
+              "RelativeDocumentMoniker": "udp_server.hpp",
+              "ToolTip": "D:\\najwazniejsze\\Dokumenty Tomka\\Programowanie\\Github\\Network concepts in Cpp\\Simple UDP server\\udp_server.hpp",
+              "RelativeToolTip": "udp_server.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T13:43:49.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "udp_server.cpp",
+              "DocumentMoniker": "D:\\najwazniejsze\\Dokumenty Tomka\\Programowanie\\Github\\Network concepts in Cpp\\Simple UDP server\\udp_server.cpp",
+              "RelativeDocumentMoniker": "udp_server.cpp",
+              "ToolTip": "D:\\najwazniejsze\\Dokumenty Tomka\\Programowanie\\Github\\Network concepts in Cpp\\Simple UDP server\\udp_server.cpp",
+              "RelativeToolTip": "udp_server.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T13:36:27.266Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 160,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 160,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\najwazniejsze\\Dokumenty Tomka\\Programowanie\\Github\\Network concepts in Cpp\\SSH Client with libssh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{433B0021-2030-40B6-8798-E13EE574A670}|SSH Client with libssh.vcxproj|D:\\najwazniejsze\\Dokumenty Tomka\\Programowanie\\Github\\Network concepts in Cpp\\SSH Client with libssh\\ssh_client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{433B0021-2030-40B6-8798-E13EE574A670}|SSH Client with libssh.vcxproj|solutionrelative:ssh_client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433B0021-2030-40B6-8798-E13EE574A670}|SSH Client with libssh.vcxproj|D:\\najwazniejsze\\Dokumenty Tomka\\Programowanie\\Github\\Network concepts in Cpp\\SSH Client with libssh\\ssh_client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{433B0021-2030-40B6-8798-E13EE574A670}|SSH Client with libssh.vcxproj|solutionrelative:ssh_client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ssh_client.h",
+              "DocumentMoniker": "D:\\najwazniejsze\\Dokumenty Tomka\\Programowanie\\Github\\Network concepts in Cpp\\SSH Client with libssh\\ssh_client.h",
+              "RelativeDocumentMoniker": "ssh_client.h",
+              "ToolTip": "D:\\najwazniejsze\\Dokumenty Tomka\\Programowanie\\Github\\Network concepts in Cpp\\SSH Client with libssh\\ssh_client.h",
+              "RelativeToolTip": "ssh_client.h",
+              "ViewState": "AgIAALcAAAAAAAAAAAAuwMMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T15:13:26.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ssh_client.cpp",
+              "DocumentMoniker": "D:\\najwazniejsze\\Dokumenty Tomka\\Programowanie\\Github\\Network concepts in Cpp\\SSH Client with libssh\\ssh_client.cpp",
+              "RelativeDocumentMoniker": "ssh_client.cpp",
+              "ToolTip": "D:\\najwazniejsze\\Dokumenty Tomka\\Programowanie\\Github\\Network concepts in Cpp\\SSH Client with libssh\\ssh_client.cpp",
+              "RelativeToolTip": "ssh_client.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T14:52:09.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 160,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 160,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
